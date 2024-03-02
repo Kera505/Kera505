@@ -6,7 +6,7 @@
 
 
 <h4 align="left"> <ul>
-  <li>🔭 I’m  at Coding.</li>
+  <li>🔭 I'm currently learning coding.</li>
   <li>📚 Learning new things, self driven, hard working and friendly.</li>
   <li>❤️ I love coding.</li>
 </ul>
